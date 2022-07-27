@@ -1,0 +1,640 @@
+Es wurden insgesamt 24 unterschiedliche Jahreszahlen festgestellt!
+Die Gesamtmenge aller 1890 Anglizismen teilt sich wie folgt auf die folgenden Jahre auf:
+
+
+Das Jahr [1998] nutzt in allen vorhandenen Texten 9 verschiedene Anglizismen und im Gesammten nutzt es 11 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 5397 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.20% an Anglizismen und ein Anteil von 0.17% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.19%.
+Diese Anglizismen sind:
+[live] kommt 3 mal vor!
+[out] kommt 1 mal vor!
+[on] kommt 1 mal vor!
+[of] kommt 1 mal vor!
+[Live] kommt 1 mal vor!
+[Fuck] kommt 1 mal vor!
+[You] kommt 1 mal vor!
+[let] kommt 1 mal vor!
+[wilden] kommt 1 mal vor!
+
+Das Jahr [2015] nutzt in allen vorhandenen Texten 34 verschiedene Anglizismen und im Gesammten nutzt es 190 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 44918 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.42% an Anglizismen und ein Anteil von 0.08% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.25%.
+Diese Anglizismen sind:
+[forever] kommt 1 mal vor!
+[Bitch] kommt 44 mal vor!
+[no] kommt 6 mal vor!
+[you] kommt 10 mal vor!
+[bam] kommt 3 mal vor!
+[wack] kommt 4 mal vor!
+[sheesh] kommt 1 mal vor!
+[Swag] kommt 2 mal vor!
+[on] kommt 11 mal vor!
+[me] kommt 11 mal vor!
+[get] kommt 1 mal vor!
+[live] kommt 2 mal vor!
+[Game] kommt 6 mal vor!
+[out] kommt 1 mal vor!
+[Selfie] kommt 3 mal vor!
+[wild] kommt 2 mal vor!
+[Life] kommt 4 mal vor!
+[fame] kommt 1 mal vor!
+[on my] kommt 1 mal vor!
+[my] kommt 8 mal vor!
+[for] kommt 3 mal vor!
+[your] kommt 9 mal vor!
+[News] kommt 1 mal vor!
+[Fuck] kommt 21 mal vor!
+[fuck] kommt 18 mal vor!
+[once] kommt 1 mal vor!
+[of] kommt 2 mal vor!
+[Good] kommt 2 mal vor!
+[YOLO] kommt 1 mal vor!
+[googeln] kommt 1 mal vor!
+[Fake] kommt 1 mal vor!
+[safe] kommt 1 mal vor!
+[that] kommt 3 mal vor!
+[shit] kommt 4 mal vor!
+
+Das Jahr [2000] nutzt in allen vorhandenen Texten 4 verschiedene Anglizismen und im Gesammten nutzt es 6 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 11397 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.05% an Anglizismen und ein Anteil von 0.04% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.04%.
+Diese Anglizismen sind:
+[my] kommt 2 mal vor!
+[you] kommt 1 mal vor!
+[Bitch] kommt 2 mal vor!
+[nice] kommt 1 mal vor!
+
+Das Jahr [2019] nutzt in allen vorhandenen Texten 39 verschiedene Anglizismen und im Gesammten nutzt es 178 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 33332 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.53% an Anglizismen und ein Anteil von 0.12% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.33%.
+Diese Anglizismen sind:
+[Swag] kommt 3 mal vor!
+[that] kommt 8 mal vor!
+[fuck] kommt 12 mal vor!
+[Selfies] kommt 2 mal vor!
+[of] kommt 4 mal vor!
+[get] kommt 6 mal vor!
+[shit] kommt 17 mal vor!
+[on my] kommt 2 mal vor!
+[Life] kommt 7 mal vor!
+[on] kommt 7 mal vor!
+[me] kommt 1 mal vor!
+[Bitch] kommt 27 mal vor!
+[fly] kommt 1 mal vor!
+[live] kommt 3 mal vor!
+[Fake] kommt 1 mal vor!
+[wild] kommt 2 mal vor!
+[flex] kommt 14 mal vor!
+[woke] kommt 8 mal vor!
+[wildem] kommt 1 mal vor!
+[you] kommt 8 mal vor!
+[anything] kommt 1 mal vor!
+[Game] kommt 6 mal vor!
+[wilde] kommt 1 mal vor!
+[as fuck] kommt 1 mal vor!
+[one] kommt 2 mal vor!
+[for] kommt 1 mal vor!
+[googeln] kommt 1 mal vor!
+[let me] kommt 1 mal vor!
+[Influencer] kommt 1 mal vor!
+[spoilern] kommt 2 mal vor!
+[out] kommt 3 mal vor!
+[safe] kommt 7 mal vor!
+[no] kommt 10 mal vor!
+[forever] kommt 1 mal vor!
+[nice] kommt 1 mal vor!
+[Fuck] kommt 1 mal vor!
+[my] kommt 2 mal vor!
+[Live] kommt 1 mal vor!
+[Selfie] kommt 1 mal vor!
+
+Das Jahr [1996] nutzt in allen vorhandenen Texten 11 verschiedene Anglizismen und im Gesammten nutzt es 15 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 7703 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.19% an Anglizismen und ein Anteil von 0.14% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.17%.
+Diese Anglizismen sind:
+[„Let] kommt 1 mal vor!
+[let] kommt 2 mal vor!
+[wildere] kommt 1 mal vor!
+[out] kommt 1 mal vor!
+[my] kommt 3 mal vor!
+[fuck] kommt 2 mal vor!
+[that] kommt 1 mal vor!
+[wilde] kommt 1 mal vor!
+[for] kommt 1 mal vor!
+[live] kommt 1 mal vor!
+[you] kommt 1 mal vor!
+
+Das Jahr [2005] nutzt in allen vorhandenen Texten 24 verschiedene Anglizismen und im Gesammten nutzt es 96 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 17690 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.54% an Anglizismen und ein Anteil von 0.14% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.34%.
+Diese Anglizismen sind:
+[of] kommt 5 mal vor!
+[wackesten] kommt 1 mal vor!
+[live] kommt 3 mal vor!
+[„No!“] kommt 5 mal vor!
+[on] kommt 6 mal vor!
+[you] kommt 12 mal vor!
+[Game] kommt 5 mal vor!
+[no] kommt 3 mal vor!
+[Bitch] kommt 10 mal vor!
+[your] kommt 4 mal vor!
+[my] kommt 6 mal vor!
+[out] kommt 5 mal vor!
+[on my] kommt 1 mal vor!
+[me] kommt 9 mal vor!
+[get] kommt 3 mal vor!
+[fuck] kommt 4 mal vor!
+[Life] kommt 3 mal vor!
+[for] kommt 4 mal vor!
+[one] kommt 1 mal vor!
+[Fake] kommt 2 mal vor!
+[fame] kommt 1 mal vor!
+[News] kommt 1 mal vor!
+[nice] kommt 1 mal vor!
+[as fuck] kommt 1 mal vor!
+
+Das Jahr [2013] nutzt in allen vorhandenen Texten 30 verschiedene Anglizismen und im Gesammten nutzt es 95 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 29687 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.32% an Anglizismen und ein Anteil von 0.10% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.21%.
+Diese Anglizismen sind:
+[google] kommt 1 mal vor!
+[livin’] kommt 1 mal vor!
+[on] kommt 8 mal vor!
+[Wack-wack-wack-wack] kommt 2 mal vor!
+[Fuck] kommt 4 mal vor!
+[Crowdfunding] kommt 1 mal vor!
+[Bitch] kommt 30 mal vor!
+[one] kommt 1 mal vor!
+[my] kommt 6 mal vor!
+[Game] kommt 3 mal vor!
+[Swag] kommt 8 mal vor!
+[OF] kommt 1 mal vor!
+[of] kommt 3 mal vor!
+[as] kommt 1 mal vor!
+[Good] kommt 1 mal vor!
+[out] kommt 2 mal vor!
+[that] kommt 2 mal vor!
+[you] kommt 2 mal vor!
+[your] kommt 4 mal vor!
+[anything] kommt 1 mal vor!
+[me] kommt 1 mal vor!
+[front] kommt 1 mal vor!
+[nice] kommt 2 mal vor!
+[Fake] kommt 1 mal vor!
+[fuck] kommt 1 mal vor!
+[for] kommt 1 mal vor!
+[fame] kommt 3 mal vor!
+[bam] kommt 1 mal vor!
+[no] kommt 1 mal vor!
+[wilder] kommt 1 mal vor!
+
+Das Jahr [2008] nutzt in allen vorhandenen Texten 18 verschiedene Anglizismen und im Gesammten nutzt es 56 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 25649 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.22% an Anglizismen und ein Anteil von 0.07% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.14%.
+Diese Anglizismen sind:
+[out] kommt 2 mal vor!
+[fuck] kommt 4 mal vor!
+[shit] kommt 2 mal vor!
+[Bitch] kommt 15 mal vor!
+[Life] kommt 2 mal vor!
+[on my] kommt 1 mal vor!
+[you] kommt 4 mal vor!
+[Game] kommt 6 mal vor!
+[Fuck] kommt 1 mal vor!
+[my] kommt 2 mal vor!
+[me] kommt 4 mal vor!
+[alone] kommt 1 mal vor!
+[on] kommt 3 mal vor!
+[that] kommt 1 mal vor!
+[Squad] kommt 2 mal vor!
+[of] kommt 1 mal vor!
+[for] kommt 1 mal vor!
+[wildesten] kommt 4 mal vor!
+
+Das Jahr [2002] nutzt in allen vorhandenen Texten 6 verschiedene Anglizismen und im Gesammten nutzt es 10 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 4525 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.22% an Anglizismen und ein Anteil von 0.13% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.18%.
+Diese Anglizismen sind:
+[Bitches] kommt 1 mal vor!
+[Bitch] kommt 4 mal vor!
+[Get] kommt 1 mal vor!
+[gets] kommt 2 mal vor!
+[wack] kommt 1 mal vor!
+[please] kommt 1 mal vor!
+
+Das Jahr [1995] nutzt in allen vorhandenen Texten 6 verschiedene Anglizismen und im Gesammten nutzt es 7 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 6972 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.10% an Anglizismen und ein Anteil von 0.09% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.09%.
+Diese Anglizismen sind:
+[one] kommt 1 mal vor!
+[you] kommt 1 mal vor!
+[got] kommt 2 mal vor!
+[for you] kommt 1 mal vor!
+[on] kommt 1 mal vor!
+[For] kommt 1 mal vor!
+
+Das Jahr [2007] nutzt in allen vorhandenen Texten 15 verschiedene Anglizismen und im Gesammten nutzt es 55 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 20775 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.26% an Anglizismen und ein Anteil von 0.07% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.17%.
+Diese Anglizismen sind:
+[Bitch] kommt 22 mal vor!
+[fame] kommt 2 mal vor!
+[wild] kommt 1 mal vor!
+[Game] kommt 8 mal vor!
+[wack] kommt 2 mal vor!
+[one] kommt 1 mal vor!
+[out] kommt 2 mal vor!
+[Fuck] kommt 2 mal vor!
+[Hustlen] kommt 1 mal vor!
+[Life] kommt 1 mal vor!
+[fuck] kommt 2 mal vor!
+[on] kommt 3 mal vor!
+[live] kommt 1 mal vor!
+[my] kommt 6 mal vor!
+[that] kommt 1 mal vor!
+
+Das Jahr [2009] nutzt in allen vorhandenen Texten 18 verschiedene Anglizismen und im Gesammten nutzt es 89 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 18695 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.48% an Anglizismen und ein Anteil von 0.10% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.29%.
+Diese Anglizismen sind:
+[on] kommt 3 mal vor!
+[Game] kommt 6 mal vor!
+[Bitch] kommt 10 mal vor!
+[that] kommt 5 mal vor!
+[me] kommt 8 mal vor!
+[my] kommt 16 mal vor!
+[your] kommt 9 mal vor!
+[you] kommt 11 mal vor!
+[no] kommt 1 mal vor!
+[live] kommt 5 mal vor!
+[fuck] kommt 1 mal vor!
+[one] kommt 2 mal vor!
+[out] kommt 6 mal vor!
+[flex] kommt 1 mal vor!
+[fly] kommt 2 mal vor!
+[for] kommt 1 mal vor!
+[of] kommt 1 mal vor!
+[once] kommt 1 mal vor!
+
+Das Jahr [2011] nutzt in allen vorhandenen Texten 24 verschiedene Anglizismen und im Gesammten nutzt es 75 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 21357 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.35% an Anglizismen und ein Anteil von 0.11% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.23%.
+Diese Anglizismen sind:
+[fuck] kommt 2 mal vor!
+[no] kommt 6 mal vor!
+[Welcome] kommt 1 mal vor!
+[for] kommt 1 mal vor!
+[one] kommt 1 mal vor!
+[Bitch] kommt 14 mal vor!
+[on] kommt 2 mal vor!
+[of] kommt 5 mal vor!
+[shit] kommt 2 mal vor!
+[fame] kommt 1 mal vor!
+[that] kommt 4 mal vor!
+[let] kommt 12 mal vor!
+[you] kommt 10 mal vor!
+[me] kommt 2 mal vor!
+[my] kommt 3 mal vor!
+[Fuck] kommt 1 mal vor!
+[same] kommt 1 mal vor!
+[wilde] kommt 1 mal vor!
+[alone] kommt 1 mal vor!
+[nice] kommt 1 mal vor!
+[once] kommt 1 mal vor!
+[live] kommt 1 mal vor!
+[wack] kommt 1 mal vor!
+[out] kommt 1 mal vor!
+
+Das Jahr [2012] nutzt in allen vorhandenen Texten 23 verschiedene Anglizismen und im Gesammten nutzt es 37 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 23945 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.15% an Anglizismen und ein Anteil von 0.10% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.13%.
+Diese Anglizismen sind:
+[Swag] kommt 1 mal vor!
+[live] kommt 2 mal vor!
+[Bitch] kommt 7 mal vor!
+[Game] kommt 4 mal vor!
+[of] kommt 3 mal vor!
+[wilde] kommt 1 mal vor!
+[Hustlen] kommt 1 mal vor!
+[that] kommt 1 mal vor!
+[my] kommt 1 mal vor!
+[no] kommt 1 mal vor!
+[Welcome] kommt 1 mal vor!
+[shit] kommt 1 mal vor!
+[me] kommt 2 mal vor!
+[on] kommt 1 mal vor!
+[Life] kommt 2 mal vor!
+[your] kommt 1 mal vor!
+[for] kommt 1 mal vor!
+[wack] kommt 1 mal vor!
+[fuck] kommt 1 mal vor!
+[one] kommt 1 mal vor!
+[Bitch please] kommt 1 mal vor!
+[google] kommt 1 mal vor!
+[you] kommt 1 mal vor!
+
+Das Jahr [2016] nutzt in allen vorhandenen Texten 37 verschiedene Anglizismen und im Gesammten nutzt es 137 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 36104 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.38% an Anglizismen und ein Anteil von 0.10% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.24%.
+Diese Anglizismen sind:
+[my] kommt 13 mal vor!
+[you] kommt 8 mal vor!
+[me] kommt 5 mal vor!
+[on] kommt 13 mal vor!
+[your] kommt 4 mal vor!
+[same] kommt 1 mal vor!
+[alone] kommt 1 mal vor!
+[get] kommt 1 mal vor!
+[Bitch] kommt 16 mal vor!
+[nice] kommt 3 mal vor!
+[flex] kommt 3 mal vor!
+[that] kommt 5 mal vor!
+[of] kommt 7 mal vor!
+[Fuck] kommt 5 mal vor!
+[fuck] kommt 2 mal vor!
+[live] kommt 4 mal vor!
+[Shitstorm] kommt 1 mal vor!
+[fame] kommt 1 mal vor!
+[safe] kommt 1 mal vor!
+[wild] kommt 2 mal vor!
+[no] kommt 2 mal vor!
+[wilde] kommt 1 mal vor!
+[for] kommt 6 mal vor!
+[Game] kommt 5 mal vor!
+[Life] kommt 1 mal vor!
+[Swag] kommt 1 mal vor!
+[For] kommt 4 mal vor!
+[one] kommt 11 mal vor!
+[wilden] kommt 1 mal vor!
+[out] kommt 1 mal vor!
+[News] kommt 2 mal vor!
+[wack] kommt 1 mal vor!
+[fly] kommt 1 mal vor!
+[Hustlen] kommt 1 mal vor!
+[as fuck] kommt 1 mal vor!
+[shit] kommt 1 mal vor!
+[Live] kommt 1 mal vor!
+
+Das Jahr [2018] nutzt in allen vorhandenen Texten 40 verschiedene Anglizismen und im Gesammten nutzt es 225 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 34778 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.65% an Anglizismen und ein Anteil von 0.12% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.38%.
+Diese Anglizismen sind:
+[Life] kommt 1 mal vor!
+[Bitch] kommt 21 mal vor!
+[fuck] kommt 9 mal vor!
+[shit] kommt 10 mal vor!
+[nice] kommt 7 mal vor!
+[googeln] kommt 1 mal vor!
+[of] kommt 5 mal vor!
+[no] kommt 12 mal vor!
+[on] kommt 18 mal vor!
+[you] kommt 20 mal vor!
+[me] kommt 12 mal vor!
+[alone] kommt 2 mal vor!
+[bam] kommt 13 mal vor!
+[for] kommt 11 mal vor!
+[one] kommt 3 mal vor!
+[live] kommt 6 mal vor!
+[fly] kommt 1 mal vor!
+[Live] kommt 3 mal vor!
+[Fuck] kommt 6 mal vor!
+[my] kommt 8 mal vor!
+[that] kommt 9 mal vor!
+[out] kommt 4 mal vor!
+[face] kommt 7 mal vor!
+[before] kommt 2 mal vor!
+[Bankster] kommt 1 mal vor!
+[please] kommt 3 mal vor!
+[For] kommt 1 mal vor!
+[safe] kommt 1 mal vor!
+[Fake] kommt 2 mal vor!
+[Bruh] kommt 1 mal vor!
+[get] kommt 2 mal vor!
+[wild] kommt 3 mal vor!
+[Game] kommt 2 mal vor!
+[your] kommt 3 mal vor!
+[flex] kommt 6 mal vor!
+[only] kommt 1 mal vor!
+[as] kommt 1 mal vor!
+[Squad] kommt 1 mal vor!
+[Wilden] kommt 1 mal vor!
+[fame] kommt 5 mal vor!
+
+Das Jahr [2003] nutzt in allen vorhandenen Texten 1 verschiedene Anglizismen und im Gesammten nutzt es 1 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 3851 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.03% an Anglizismen und ein Anteil von 0.03% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.03%.
+Diese Anglizismen sind:
+[for] kommt 1 mal vor!
+
+Das Jahr [2014] nutzt in allen vorhandenen Texten 28 verschiedene Anglizismen und im Gesammten nutzt es 103 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 30590 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.34% an Anglizismen und ein Anteil von 0.09% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.21%.
+Diese Anglizismen sind:
+[Game] kommt 2 mal vor!
+[Bitch] kommt 19 mal vor!
+[nice] kommt 1 mal vor!
+[of] kommt 8 mal vor!
+[wilde] kommt 1 mal vor!
+[safe] kommt 2 mal vor!
+[wack] kommt 3 mal vor!
+[sheesh] kommt 1 mal vor!
+[Life] kommt 3 mal vor!
+[Swag] kommt 4 mal vor!
+[out] kommt 1 mal vor!
+[you] kommt 13 mal vor!
+[me] kommt 7 mal vor!
+[for] kommt 1 mal vor!
+[on] kommt 3 mal vor!
+[wilden] kommt 2 mal vor!
+[old] kommt 1 mal vor!
+[wild] kommt 6 mal vor!
+[same] kommt 1 mal vor!
+[no] kommt 4 mal vor!
+[fame] kommt 1 mal vor!
+[fly] kommt 1 mal vor!
+[live] kommt 4 mal vor!
+[future] kommt 2 mal vor!
+[one] kommt 3 mal vor!
+[that] kommt 7 mal vor!
+[my] kommt 1 mal vor!
+[only] kommt 1 mal vor!
+
+Das Jahr [2010] nutzt in allen vorhandenen Texten 20 verschiedene Anglizismen und im Gesammten nutzt es 60 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 26194 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.23% an Anglizismen und ein Anteil von 0.08% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.15%.
+Diese Anglizismen sind:
+[of] kommt 11 mal vor!
+[on] kommt 4 mal vor!
+[Game] kommt 7 mal vor!
+[wack] kommt 1 mal vor!
+[Bitch] kommt 11 mal vor!
+[Life] kommt 2 mal vor!
+[live] kommt 3 mal vor!
+[fly] kommt 2 mal vor!
+[you] kommt 3 mal vor!
+[your] kommt 1 mal vor!
+[shit] kommt 2 mal vor!
+[for] kommt 1 mal vor!
+[fame] kommt 1 mal vor!
+[my] kommt 1 mal vor!
+[me] kommt 2 mal vor!
+[get] kommt 1 mal vor!
+[fuck] kommt 3 mal vor!
+[Fuck] kommt 2 mal vor!
+[nice] kommt 1 mal vor!
+[Fake] kommt 1 mal vor!
+
+Das Jahr [2017] nutzt in allen vorhandenen Texten 38 verschiedene Anglizismen und im Gesammten nutzt es 192 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 32665 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.59% an Anglizismen und ein Anteil von 0.12% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.35%.
+Diese Anglizismen sind:
+[Bitch] kommt 21 mal vor!
+[wilden] kommt 2 mal vor!
+[bam] kommt 26 mal vor!
+[my] kommt 12 mal vor!
+[no] kommt 9 mal vor!
+[safe] kommt 2 mal vor!
+[you] kommt 22 mal vor!
+[Game] kommt 7 mal vor!
+[of] kommt 6 mal vor!
+[your] kommt 3 mal vor!
+[me] kommt 7 mal vor!
+[shit] kommt 4 mal vor!
+[fuck] kommt 5 mal vor!
+[forever] kommt 1 mal vor!
+[Life] kommt 9 mal vor!
+[Good] kommt 2 mal vor!
+[on] kommt 5 mal vor!
+[for] kommt 8 mal vor!
+[Fuck] kommt 1 mal vor!
+[Shitstorm] kommt 1 mal vor!
+[live] kommt 3 mal vor!
+[let] kommt 1 mal vor!
+[OF] kommt 1 mal vor!
+[only] kommt 2 mal vor!
+[one] kommt 7 mal vor!
+[for you] kommt 3 mal vor!
+[old] kommt 1 mal vor!
+[that] kommt 3 mal vor!
+[YOLO] kommt 1 mal vor!
+[Fake] kommt 3 mal vor!
+[Welcome] kommt 1 mal vor!
+[as fuck] kommt 6 mal vor!
+[get] kommt 1 mal vor!
+[nice] kommt 1 mal vor!
+[before] kommt 1 mal vor!
+[out] kommt 1 mal vor!
+[wack] kommt 2 mal vor!
+[Lowkey] kommt 1 mal vor!
+
+Das Jahr [2006] nutzt in allen vorhandenen Texten 22 verschiedene Anglizismen und im Gesammten nutzt es 61 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 23193 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.26% an Anglizismen und ein Anteil von 0.09% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.18%.
+Diese Anglizismen sind:
+[Bitch] kommt 10 mal vor!
+[Game] kommt 11 mal vor!
+[live] kommt 1 mal vor!
+[of] kommt 14 mal vor!
+[fuck] kommt 1 mal vor!
+[please] kommt 1 mal vor!
+[wildesten] kommt 1 mal vor!
+[Life] kommt 2 mal vor!
+[no] kommt 2 mal vor!
+[wilde] kommt 1 mal vor!
+[out] kommt 2 mal vor!
+[nice] kommt 1 mal vor!
+[my] kommt 3 mal vor!
+[your] kommt 1 mal vor!
+[Fuck] kommt 1 mal vor!
+[me] kommt 2 mal vor!
+[Good] kommt 2 mal vor!
+[Fake] kommt 1 mal vor!
+[wild] kommt 1 mal vor!
+[Fuck you] kommt 1 mal vor!
+[wack] kommt 1 mal vor!
+[on] kommt 1 mal vor!
+
+Das Jahr [2004] nutzt in allen vorhandenen Texten 17 verschiedene Anglizismen und im Gesammten nutzt es 77 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 10845 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.71% an Anglizismen und ein Anteil von 0.16% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.43%.
+Diese Anglizismen sind:
+[get] kommt 5 mal vor!
+[fuck] kommt 4 mal vor!
+[out] kommt 9 mal vor!
+[no] kommt 6 mal vor!
+[Game] kommt 3 mal vor!
+[on] kommt 3 mal vor!
+[wilden] kommt 1 mal vor!
+[one] kommt 2 mal vor!
+[me] kommt 1 mal vor!
+[my] kommt 4 mal vor!
+[Bitch] kommt 10 mal vor!
+[that] kommt 8 mal vor!
+[Fuck] kommt 1 mal vor!
+[for] kommt 14 mal vor!
+[shit] kommt 4 mal vor!
+[wild] kommt 1 mal vor!
+[wack] kommt 1 mal vor!
+
+Das Jahr [2020] nutzt in allen vorhandenen Texten 21 verschiedene Anglizismen und im Gesammten nutzt es 95 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 14168 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.67% an Anglizismen und ein Anteil von 0.15% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.41%.
+Diese Anglizismen sind:
+[Hustlen] kommt 1 mal vor!
+[get on] kommt 1 mal vor!
+[my] kommt 11 mal vor!
+[Life] kommt 6 mal vor!
+[on] kommt 3 mal vor!
+[out] kommt 8 mal vor!
+[no] kommt 3 mal vor!
+[Bitch] kommt 8 mal vor!
+[of] kommt 4 mal vor!
+[me] kommt 2 mal vor!
+[you] kommt 20 mal vor!
+[your] kommt 2 mal vor!
+[let] kommt 1 mal vor!
+[as] kommt 2 mal vor!
+[get] kommt 4 mal vor!
+[that] kommt 2 mal vor!
+[Fuck] kommt 8 mal vor!
+[before] kommt 1 mal vor!
+[Game] kommt 2 mal vor!
+[for] kommt 5 mal vor!
+[anything] kommt 1 mal vor!
+
+Das Jahr [2001] nutzt in allen vorhandenen Texten 8 verschiedene Anglizismen und im Gesammten nutzt es 19 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 8312 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.23% an Anglizismen und ein Anteil von 0.10% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.16%.
+Diese Anglizismen sind:
+[Bitch] kommt 1 mal vor!
+[Fake] kommt 2 mal vor!
+[for] kommt 1 mal vor!
+[as] kommt 1 mal vor!
+[flex] kommt 1 mal vor!
+[wild] kommt 1 mal vor!
+[fuck] kommt 8 mal vor!
+[get] kommt 4 mal vor!
