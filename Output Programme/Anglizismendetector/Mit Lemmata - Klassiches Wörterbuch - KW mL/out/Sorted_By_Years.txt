@@ -1,0 +1,637 @@
+Es wurden insgesamt 24 unterschiedliche Jahreszahlen festgestellt!
+Die Gesamtmenge aller 802 Anglizismen teilt sich wie folgt auf die folgenden Jahre auf:
+
+
+Das Jahr [2008] nutzt in allen vorhandenen Texten 26 verschiedene Anglizismen und im Gesammten nutzt es 30 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 2365 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 1.27% an Anglizismen und ein Anteil von 1.10% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 1.18%.
+Diese Anglizismen sind:
+[and] kommt 1 mal vor!
+[rating] kommt 1 mal vor!
+[history] kommt 1 mal vor!
+[a] kommt 1 mal vor!
+[Star] kommt 2 mal vor!
+[Hip] kommt 1 mal vor!
+[Hop] kommt 1 mal vor!
+[Message] kommt 1 mal vor!
+[Moment] kommt 1 mal vor!
+[Player] kommt 1 mal vor!
+[Bitch] kommt 4 mal vor!
+[King] kommt 1 mal vor!
+[Next] kommt 1 mal vor!
+[Level] kommt 1 mal vor!
+[Sparrow] kommt 1 mal vor!
+[Mum] kommt 1 mal vor!
+[Kid] kommt 1 mal vor!
+[Shirt] kommt 1 mal vor!
+[Gig] kommt 1 mal vor!
+[Oak] kommt 1 mal vor!
+[Jap] kommt 1 mal vor!
+[rum] kommt 1 mal vor!
+[Hey] kommt 1 mal vor!
+[Limo] kommt 1 mal vor!
+[Okay] kommt 1 mal vor!
+[Bastard] kommt 1 mal vor!
+
+Das Jahr [2019] nutzt in allen vorhandenen Texten 38 verschiedene Anglizismen und im Gesammten nutzt es 114 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 2627 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 4.34% an Anglizismen und ein Anteil von 1.45% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 2.89%.
+Diese Anglizismen sind:
+[stand] kommt 1 mal vor!
+[Martini] kommt 1 mal vor!
+[Bond] kommt 2 mal vor!
+[Sofa] kommt 4 mal vor!
+[Momente] kommt 4 mal vor!
+[New] kommt 1 mal vor!
+[Street] kommt 1 mal vor!
+[sun] kommt 5 mal vor!
+[Chancen] kommt 1 mal vor!
+[Humor] kommt 1 mal vor!
+[Babe] kommt 2 mal vor!
+[Songs] kommt 1 mal vor!
+[Flashback] kommt 1 mal vor!
+[Bingo] kommt 1 mal vor!
+[Girl] kommt 5 mal vor!
+[East] kommt 1 mal vor!
+[Pack] kommt 1 mal vor!
+[Haze] kommt 12 mal vor!
+[Okay] kommt 1 mal vor!
+[Packs] kommt 1 mal vor!
+[Amnesia] kommt 11 mal vor!
+[Silver] kommt 10 mal vor!
+[Bubble] kommt 10 mal vor!
+[Hash] kommt 10 mal vor!
+[hammer] kommt 8 mal vor!
+[Yeah] kommt 2 mal vor!
+[Favorite] kommt 1 mal vor!
+[Buy] kommt 1 mal vor!
+[or] kommt 1 mal vor!
+[Love] kommt 1 mal vor!
+[Hey] kommt 1 mal vor!
+[Still] kommt 2 mal vor!
+[rum] kommt 1 mal vor!
+[Hill] kommt 4 mal vor!
+[Ok] kommt 1 mal vor!
+[The] kommt 1 mal vor!
+[Game] kommt 1 mal vor!
+[Whiskey] kommt 1 mal vor!
+
+Das Jahr [1995] nutzt in allen vorhandenen Texten 14 verschiedene Anglizismen und im Gesammten nutzt es 22 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 2760 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.80% an Anglizismen und ein Anteil von 0.51% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.65%.
+Diese Anglizismen sind:
+[Aftershave] kommt 1 mal vor!
+[Charts] kommt 1 mal vor!
+[fit] kommt 1 mal vor!
+[Bass] kommt 1 mal vor!
+[Definiton] kommt 1 mal vor!
+[Definition] kommt 8 mal vor!
+[Style] kommt 1 mal vor!
+[Drum] kommt 1 mal vor!
+[Momente] kommt 1 mal vor!
+[Moment] kommt 2 mal vor!
+[Bässe] kommt 1 mal vor!
+[doll] kommt 1 mal vor!
+[I] kommt 1 mal vor!
+[rum] kommt 1 mal vor!
+
+Das Jahr [1998] nutzt in allen vorhandenen Texten 7 verschiedene Anglizismen und im Gesammten nutzt es 7 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 1158 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.60% an Anglizismen und ein Anteil von 0.60% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.60%.
+Diese Anglizismen sind:
+[New] kommt 1 mal vor!
+[Scrabble] kommt 1 mal vor!
+[stop] kommt 1 mal vor!
+[Show] kommt 1 mal vor!
+[Chance] kommt 1 mal vor!
+[Pack] kommt 1 mal vor!
+[Fuck] kommt 1 mal vor!
+
+Das Jahr [1996] nutzt in allen vorhandenen Texten 13 verschiedene Anglizismen und im Gesammten nutzt es 13 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 1595 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.82% an Anglizismen und ein Anteil von 0.82% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.82%.
+Diese Anglizismen sind:
+[Attention] kommt 1 mal vor!
+[attention] kommt 1 mal vor!
+[Blues] kommt 1 mal vor!
+[Mickey] kommt 1 mal vor!
+[Couch] kommt 1 mal vor!
+[extra] kommt 1 mal vor!
+[Toast] kommt 1 mal vor!
+[Jurassic] kommt 1 mal vor!
+[up] kommt 1 mal vor!
+[Chef] kommt 1 mal vor!
+[Manager] kommt 1 mal vor!
+[Boxer] kommt 1 mal vor!
+[Quote] kommt 1 mal vor!
+
+Das Jahr [2000] nutzt in allen vorhandenen Texten 15 verschiedene Anglizismen und im Gesammten nutzt es 16 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 2892 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.55% an Anglizismen und ein Anteil von 0.52% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.54%.
+Diese Anglizismen sind:
+[Pause] kommt 2 mal vor!
+[Style] kommt 1 mal vor!
+[Event] kommt 1 mal vor!
+[Shows] kommt 1 mal vor!
+[Underground] kommt 1 mal vor!
+[Dame] kommt 1 mal vor!
+[Song] kommt 1 mal vor!
+[Remix] kommt 1 mal vor!
+[Okay] kommt 1 mal vor!
+[Humor] kommt 1 mal vor!
+[Chips] kommt 1 mal vor!
+[Aspirin] kommt 1 mal vor!
+[Fox] kommt 1 mal vor!
+[Fort] kommt 1 mal vor!
+[Hack] kommt 1 mal vor!
+
+Das Jahr [2001] nutzt in allen vorhandenen Texten 10 verschiedene Anglizismen und im Gesammten nutzt es 11 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 1603 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.69% an Anglizismen und ein Anteil von 0.62% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.66%.
+Diese Anglizismen sind:
+[Propaganda] kommt 1 mal vor!
+[Stress] kommt 1 mal vor!
+[Visage] kommt 1 mal vor!
+[Styles] kommt 2 mal vor!
+[b] kommt 1 mal vor!
+[Soccer] kommt 1 mal vor!
+[Show] kommt 1 mal vor!
+[rum] kommt 1 mal vor!
+[Clan] kommt 1 mal vor!
+[Rhyme] kommt 1 mal vor!
+
+Das Jahr [2002] nutzt in allen vorhandenen Texten 16 verschiedene Anglizismen und im Gesammten nutzt es 20 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 1246 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 1.61% an Anglizismen und ein Anteil von 1.28% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 1.44%.
+Diese Anglizismen sind:
+[Show] kommt 1 mal vor!
+[Rap] kommt 1 mal vor!
+[Reggae] kommt 1 mal vor!
+[up] kommt 1 mal vor!
+[Frisbee] kommt 1 mal vor!
+[Whiskey] kommt 1 mal vor!
+[Flavour] kommt 1 mal vor!
+[Fräulein] kommt 1 mal vor!
+[Refrain] kommt 1 mal vor!
+[easy] kommt 1 mal vor!
+[B.] kommt 1 mal vor!
+[City] kommt 2 mal vor!
+[Nobody] kommt 2 mal vor!
+[nobody] kommt 2 mal vor!
+[Hardcore] kommt 2 mal vor!
+[rum] kommt 1 mal vor!
+
+Das Jahr [2015] nutzt in allen vorhandenen Texten 54 verschiedene Anglizismen und im Gesammten nutzt es 68 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 2720 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 2.50% an Anglizismen und ein Anteil von 1.99% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 2.24%.
+Diese Anglizismen sind:
+[Shit] kommt 6 mal vor!
+[Shotgun] kommt 1 mal vor!
+[Dame] kommt 1 mal vor!
+[Tampons] kommt 1 mal vor!
+[Fammily] kommt 1 mal vor!
+[Family] kommt 1 mal vor!
+[Rap] kommt 4 mal vor!
+[Log] kommt 1 mal vor!
+[Joe] kommt 1 mal vor!
+[back] kommt 1 mal vor!
+[Button] kommt 1 mal vor!
+[Date] kommt 1 mal vor!
+[Track] kommt 1 mal vor!
+[Clutch] kommt 1 mal vor!
+[Damen] kommt 1 mal vor!
+[Paranoia] kommt 1 mal vor!
+[Ott] kommt 1 mal vor!
+[Sixer] kommt 1 mal vor!
+[Huh] kommt 1 mal vor!
+[Freaks] kommt 1 mal vor!
+[Feeling] kommt 1 mal vor!
+[King] kommt 1 mal vor!
+[Right] kommt 1 mal vor!
+[Songs] kommt 2 mal vor!
+[Dago] kommt 2 mal vor!
+[Rooftop] kommt 1 mal vor!
+[Flavour] kommt 1 mal vor!
+[New] kommt 1 mal vor!
+[Major] kommt 1 mal vor!
+[Fame] kommt 1 mal vor!
+[Whoop] kommt 2 mal vor!
+[Style] kommt 1 mal vor!
+[Line] kommt 1 mal vor!
+[Little] kommt 1 mal vor!
+[Vino] kommt 1 mal vor!
+[Tequila] kommt 1 mal vor!
+[Viva] kommt 1 mal vor!
+[Maria] kommt 1 mal vor!
+[Kingpin] kommt 1 mal vor!
+[Gun] kommt 1 mal vor!
+[Mack] kommt 1 mal vor!
+[Ecstasy] kommt 1 mal vor!
+[Gee] kommt 1 mal vor!
+[Pate] kommt 1 mal vor!
+[Bitch] kommt 1 mal vor!
+[Community] kommt 1 mal vor!
+[tune] kommt 2 mal vor!
+[Do] kommt 1 mal vor!
+[people] kommt 1 mal vor!
+[care] kommt 1 mal vor!
+[for] kommt 1 mal vor!
+[there] kommt 1 mal vor!
+[Ta] kommt 2 mal vor!
+[bow] kommt 2 mal vor!
+
+Das Jahr [2013] nutzt in allen vorhandenen Texten 57 verschiedene Anglizismen und im Gesammten nutzt es 113 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 3695 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 3.06% an Anglizismen und ein Anteil von 1.54% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 2.30%.
+Diese Anglizismen sind:
+[St.] kommt 1 mal vor!
+[Rom] kommt 6 mal vor!
+[Twitter] kommt 1 mal vor!
+[New] kommt 1 mal vor!
+[City] kommt 1 mal vor!
+[Show] kommt 2 mal vor!
+[Spree] kommt 1 mal vor!
+[Fun] kommt 1 mal vor!
+[Visage] kommt 1 mal vor!
+[Kids] kommt 2 mal vor!
+[Money] kommt 1 mal vor!
+[Game] kommt 1 mal vor!
+[Over] kommt 1 mal vor!
+[Yeah] kommt 2 mal vor!
+[Bitch] kommt 8 mal vor!
+[Mission] kommt 1 mal vor!
+[Zoo] kommt 1 mal vor!
+[Okay] kommt 1 mal vor!
+[rum] kommt 3 mal vor!
+[Pop] kommt 1 mal vor!
+[Step] kommt 1 mal vor!
+[And] kommt 3 mal vor!
+[King] kommt 3 mal vor!
+[Bastard] kommt 1 mal vor!
+[I] kommt 4 mal vor!
+[money] kommt 1 mal vor!
+[or] kommt 1 mal vor!
+[Love] kommt 1 mal vor!
+[love] kommt 1 mal vor!
+[me] kommt 1 mal vor!
+[front] kommt 1 mal vor!
+[of] kommt 1 mal vor!
+[Ex] kommt 1 mal vor!
+[over] kommt 1 mal vor!
+[top] kommt 1 mal vor!
+[Krone] kommt 7 mal vor!
+[okay] kommt 1 mal vor!
+[Moment] kommt 1 mal vor!
+[Hype] kommt 1 mal vor!
+[stand] kommt 1 mal vor!
+[easy] kommt 1 mal vor!
+[Probe] kommt 1 mal vor!
+[Shit] kommt 1 mal vor!
+[Bares] kommt 1 mal vor!
+[Prince] kommt 12 mal vor!
+[One] kommt 12 mal vor!
+[hey] kommt 1 mal vor!
+[Aggro] kommt 2 mal vor!
+[Models] kommt 3 mal vor!
+[plus] kommt 2 mal vor!
+[Body] kommt 1 mal vor!
+[Language] kommt 1 mal vor!
+[au] kommt 1 mal vor!
+[Exclusive] kommt 1 mal vor!
+[feet] kommt 1 mal vor!
+[under] kommt 1 mal vor!
+[Fame] kommt 1 mal vor!
+
+Das Jahr [2014] nutzt in allen vorhandenen Texten 19 verschiedene Anglizismen und im Gesammten nutzt es 24 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 1590 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 1.51% an Anglizismen und ein Anteil von 1.19% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 1.35%.
+Diese Anglizismen sind:
+[World] kommt 3 mal vor!
+[name] kommt 3 mal vor!
+[Backstreet] kommt 1 mal vor!
+[knockout] kommt 1 mal vor!
+[Been] kommt 1 mal vor!
+[Hood] kommt 1 mal vor!
+[Ma] kommt 1 mal vor!
+[Hoe] kommt 1 mal vor!
+[Rap] kommt 2 mal vor!
+[Cypher] kommt 1 mal vor!
+[Hardcore] kommt 1 mal vor!
+[Quark] kommt 1 mal vor!
+[Weed] kommt 1 mal vor!
+[I] kommt 1 mal vor!
+[and] kommt 1 mal vor!
+[tape] kommt 1 mal vor!
+[decks] kommt 1 mal vor!
+[Karma] kommt 1 mal vor!
+[Song] kommt 1 mal vor!
+
+Das Jahr [2005] nutzt in allen vorhandenen Texten 1 verschiedene Anglizismen und im Gesammten nutzt es 1 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 490 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.20% an Anglizismen und ein Anteil von 0.20% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.20%.
+Diese Anglizismen sind:
+[Wader] kommt 1 mal vor!
+
+Das Jahr [2012] nutzt in allen vorhandenen Texten 17 verschiedene Anglizismen und im Gesammten nutzt es 20 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 1297 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 1.54% an Anglizismen und ein Anteil von 1.31% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 1.43%.
+Diese Anglizismen sind:
+[Bastard] kommt 1 mal vor!
+[Start] kommt 1 mal vor!
+[Hardcore] kommt 1 mal vor!
+[Rap] kommt 2 mal vor!
+[Para] kommt 3 mal vor!
+[Highlight] kommt 1 mal vor!
+[Ott] kommt 1 mal vor!
+[Paranoia] kommt 1 mal vor!
+[Jay] kommt 1 mal vor!
+[Haze] kommt 1 mal vor!
+[Handy] kommt 1 mal vor!
+[One] kommt 1 mal vor!
+[first] kommt 1 mal vor!
+[Cypher] kommt 1 mal vor!
+[Bitch] kommt 1 mal vor!
+[Line] kommt 1 mal vor!
+[Yeah] kommt 1 mal vor!
+
+Das Jahr [2016] nutzt in allen vorhandenen Texten 3 verschiedene Anglizismen und im Gesammten nutzt es 3 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 364 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.82% an Anglizismen und ein Anteil von 0.82% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.82%.
+Diese Anglizismen sind:
+[Weed] kommt 1 mal vor!
+[Blueberry] kommt 1 mal vor!
+[Couch] kommt 1 mal vor!
+
+Das Jahr [2010] nutzt in allen vorhandenen Texten 1 verschiedene Anglizismen und im Gesammten nutzt es 1 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 348 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.29% an Anglizismen und ein Anteil von 0.29% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.29%.
+Diese Anglizismen sind:
+[Handy] kommt 1 mal vor!
+
+Das Jahr [2007] nutzt in allen vorhandenen Texten 23 verschiedene Anglizismen und im Gesammten nutzt es 71 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 1808 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 3.93% an Anglizismen und ein Anteil von 1.27% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 2.60%.
+Diese Anglizismen sind:
+[Chi] kommt 45 mal vor!
+[Genesis] kommt 1 mal vor!
+[Humor] kommt 1 mal vor!
+[Happy] kommt 1 mal vor!
+[End] kommt 1 mal vor!
+[Life] kommt 1 mal vor!
+[over] kommt 1 mal vor!
+[Peace] kommt 1 mal vor!
+[Favorite] kommt 1 mal vor!
+[Track] kommt 4 mal vor!
+[Filter] kommt 1 mal vor!
+[Plus] kommt 1 mal vor!
+[New] kommt 1 mal vor!
+[Yeah] kommt 1 mal vor!
+[Alder] kommt 2 mal vor!
+[Single] kommt 1 mal vor!
+[Jingle] kommt 1 mal vor!
+[Hero] kommt 1 mal vor!
+[Bitch] kommt 1 mal vor!
+[Lines] kommt 1 mal vor!
+[King] kommt 1 mal vor!
+[Bravo] kommt 1 mal vor!
+[Ice] kommt 1 mal vor!
+
+Das Jahr [2004] nutzt in allen vorhandenen Texten 16 verschiedene Anglizismen und im Gesammten nutzt es 19 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 535 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 3.55% an Anglizismen und ein Anteil von 2.99% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 3.27%.
+Diese Anglizismen sind:
+[OK] kommt 1 mal vor!
+[Yes] kommt 1 mal vor!
+[stop] kommt 1 mal vor!
+[King] kommt 2 mal vor!
+[Herpes] kommt 1 mal vor!
+[Hook] kommt 1 mal vor!
+[Rover] kommt 1 mal vor!
+[Track] kommt 2 mal vor!
+[Fry] kommt 1 mal vor!
+[Junkies] kommt 1 mal vor!
+[Rap] kommt 2 mal vor!
+[Champ] kommt 1 mal vor!
+[Cock] kommt 1 mal vor!
+[money] kommt 1 mal vor!
+[Juice] kommt 1 mal vor!
+[Furious] kommt 1 mal vor!
+
+Das Jahr [2018] nutzt in allen vorhandenen Texten 9 verschiedene Anglizismen und im Gesammten nutzt es 28 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 553 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 5.06% an Anglizismen und ein Anteil von 1.63% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 3.35%.
+Diese Anglizismen sind:
+[Batman] kommt 1 mal vor!
+[Hulk] kommt 1 mal vor!
+[Mission] kommt 1 mal vor!
+[Star] kommt 2 mal vor!
+[Swipe] kommt 6 mal vor!
+[up] kommt 14 mal vor!
+[Bares] kommt 1 mal vor!
+[Money] kommt 1 mal vor!
+[over] kommt 1 mal vor!
+
+Das Jahr [unknown] nutzt in allen vorhandenen Texten 21 verschiedene Anglizismen und im Gesammten nutzt es 47 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 553 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 8.50% an Anglizismen und ein Anteil von 3.80% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 6.15%.
+Diese Anglizismen sind:
+[fun] kommt 3 mal vor!
+[One] kommt 1 mal vor!
+[for] kommt 3 mal vor!
+[and] kommt 1 mal vor!
+[one] kommt 1 mal vor!
+[Fantastic] kommt 11 mal vor!
+[Van] kommt 1 mal vor!
+[on] kommt 2 mal vor!
+[set] kommt 2 mal vor!
+[Captain] kommt 3 mal vor!
+[Classic] kommt 5 mal vor!
+[Four] kommt 4 mal vor!
+[Music] kommt 2 mal vor!
+[light] kommt 1 mal vor!
+[Light] kommt 1 mal vor!
+[Hey] kommt 1 mal vor!
+[Foreman] kommt 1 mal vor!
+[Men] kommt 1 mal vor!
+[Front] kommt 1 mal vor!
+[Formidable] kommt 1 mal vor!
+[Alder] kommt 1 mal vor!
+
+Das Jahr [2009] nutzt in allen vorhandenen Texten 27 verschiedene Anglizismen und im Gesammten nutzt es 53 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 1715 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 3.09% an Anglizismen und ein Anteil von 1.57% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 2.33%.
+Diese Anglizismen sind:
+[Chick] kommt 2 mal vor!
+[Porte] kommt 1 mal vor!
+[Gun] kommt 1 mal vor!
+[Yeah] kommt 3 mal vor!
+[Shit] kommt 2 mal vor!
+[Joint] kommt 2 mal vor!
+[hey] kommt 1 mal vor!
+[Dick] kommt 1 mal vor!
+[Break] kommt 1 mal vor!
+[Street] kommt 19 mal vor!
+[Easy] kommt 1 mal vor!
+[easy] kommt 1 mal vor!
+[tight] kommt 2 mal vor!
+[White] kommt 2 mal vor!
+[Strafe] kommt 1 mal vor!
+[Hop] kommt 1 mal vor!
+[rum] kommt 1 mal vor!
+[art] kommt 1 mal vor!
+[Twin] kommt 1 mal vor!
+[Labyrinth] kommt 1 mal vor!
+[Lack] kommt 1 mal vor!
+[Exclusive] kommt 1 mal vor!
+[Zeitgeist] kommt 1 mal vor!
+[Freaks] kommt 1 mal vor!
+[Hardcore] kommt 1 mal vor!
+[Clowns] kommt 1 mal vor!
+[Game] kommt 2 mal vor!
+
+Das Jahr [2006] nutzt in allen vorhandenen Texten 21 verschiedene Anglizismen und im Gesammten nutzt es 24 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 1311 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 1.83% an Anglizismen und ein Anteil von 1.60% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 1.72%.
+Diese Anglizismen sind:
+[Track] kommt 1 mal vor!
+[rap] kommt 1 mal vor!
+[Peace] kommt 1 mal vor!
+[Shit] kommt 1 mal vor!
+[Hop] kommt 1 mal vor!
+[Pate] kommt 2 mal vor!
+[Breakdown] kommt 1 mal vor!
+[Krone] kommt 1 mal vor!
+[Heavy] kommt 1 mal vor!
+[Metal] kommt 1 mal vor!
+[Battle] kommt 1 mal vor!
+[Rap] kommt 2 mal vor!
+[Star] kommt 1 mal vor!
+[Refrain] kommt 1 mal vor!
+[Push] kommt 2 mal vor!
+[King of] kommt 1 mal vor!
+[Manager] kommt 1 mal vor!
+[Cruiser] kommt 1 mal vor!
+[Bitch] kommt 1 mal vor!
+[Chance] kommt 1 mal vor!
+[Yeah] kommt 1 mal vor!
+
+Das Jahr [2017] nutzt in allen vorhandenen Texten 42 verschiedene Anglizismen und im Gesammten nutzt es 48 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 2178 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 2.20% an Anglizismen und ein Anteil von 1.93% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 2.07%.
+Diese Anglizismen sind:
+[Wallah] kommt 1 mal vor!
+[La] kommt 2 mal vor!
+[Jeans] kommt 1 mal vor!
+[Cocaine] kommt 3 mal vor!
+[Hype] kommt 1 mal vor!
+[Fame] kommt 1 mal vor!
+[Street] kommt 1 mal vor!
+[Jalousie] kommt 1 mal vor!
+[Packs] kommt 1 mal vor!
+[V.] kommt 1 mal vor!
+[I] kommt 1 mal vor!
+[Sample] kommt 1 mal vor!
+[Coco] kommt 1 mal vor!
+[Para] kommt 2 mal vor!
+[Chef] kommt 2 mal vor!
+[Nick] kommt 1 mal vor!
+[Clan] kommt 1 mal vor!
+[Drake] kommt 1 mal vor!
+[Game] kommt 1 mal vor!
+[Pow] kommt 1 mal vor!
+[Cabriolet] kommt 1 mal vor!
+[Donna] kommt 1 mal vor!
+[drum] kommt 1 mal vor!
+[test] kommt 1 mal vor!
+[Capo] kommt 1 mal vor!
+[school] kommt 1 mal vor!
+[Freaks] kommt 1 mal vor!
+[Fresh] kommt 2 mal vor!
+[Me] kommt 1 mal vor!
+[over] kommt 1 mal vor!
+[top] kommt 1 mal vor!
+[Shoulder] kommt 1 mal vor!
+[Yeah] kommt 1 mal vor!
+[Quickie] kommt 1 mal vor!
+[Rap] kommt 1 mal vor!
+[Sultan] kommt 1 mal vor!
+[Ex] kommt 1 mal vor!
+[ex] kommt 1 mal vor!
+[Tattoo] kommt 1 mal vor!
+[Medien] kommt 1 mal vor!
+[rum] kommt 1 mal vor!
+[Remix] kommt 1 mal vor!
+
+Das Jahr [2020] nutzt in allen vorhandenen Texten 27 verschiedene Anglizismen und im Gesammten nutzt es 36 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 366 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 9.84% an Anglizismen und ein Anteil von 7.38% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 8.61%.
+Diese Anglizismen sind:
+[Yeah] kommt 1 mal vor!
+[Got] kommt 1 mal vor!
+[a] kommt 2 mal vor!
+[gun] kommt 1 mal vor!
+[Handy] kommt 1 mal vor!
+[on] kommt 1 mal vor!
+[low] kommt 2 mal vor!
+[Century] kommt 1 mal vor!
+[Solarium] kommt 1 mal vor!
+[Free] kommt 1 mal vor!
+[Shindy] kommt 2 mal vor!
+[Jealous] kommt 1 mal vor!
+[Still] kommt 1 mal vor!
+[Envy] kommt 1 mal vor!
+[Paranoia] kommt 1 mal vor!
+[I] kommt 6 mal vor!
+[down] kommt 1 mal vor!
+[else] kommt 1 mal vor!
+[can] kommt 2 mal vor!
+[going] kommt 1 mal vor!
+[Whatever] kommt 1 mal vor!
+[The] kommt 1 mal vor!
+[King of] kommt 1 mal vor!
+[Pop] kommt 1 mal vor!
+[This] kommt 1 mal vor!
+[easy] kommt 1 mal vor!
+[Weed] kommt 1 mal vor!
+
+Das Jahr [2011] nutzt in allen vorhandenen Texten 13 verschiedene Anglizismen und im Gesammten nutzt es 13 Anglizismen!
+Insgesamt wurden in allen Texten dieses Jahres 693 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 1.88% an Anglizismen und ein Anteil von 1.88% unterschiedlichen Anglizismen im Korpus für dieses Jahr.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 1.88%.
+Diese Anglizismen sind:
+[Shit] kommt 1 mal vor!
+[Fame] kommt 1 mal vor!
+[end] kommt 1 mal vor!
+[of] kommt 1 mal vor!
+[day] kommt 1 mal vor!
+[down] kommt 1 mal vor!
+[moment] kommt 1 mal vor!
+[And] kommt 1 mal vor!
+[heart] kommt 1 mal vor!
+[Wedding] kommt 1 mal vor!
+[Ass] kommt 1 mal vor!
+[Joint] kommt 1 mal vor!
+[Paranoia] kommt 1 mal vor!

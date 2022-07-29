@@ -1,0 +1,721 @@
+Es wurden insgesamt 32 unterschiedliche Autoren festgestellt!
+Die Gesamtmenge aller 843 Anglizismen teilt sich wie folgt auf die folgenden Autoren auf:
+
+
+Der Autor [Fettes Brot] nutzt in allen vorhandenen Texten 140 verschiedene Anglizismen und im Gesammten nutzt er 258 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 18306 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 1.41% an Anglizismen und ein Anteil von 0.76% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 1.09%.
+Diese Anglizismen sind:
+[Ranking] kommt 1 mal vor!
+[and] kommt 1 mal vor!
+[rating] kommt 1 mal vor!
+[history] kommt 1 mal vor!
+[the] kommt 14 mal vor!
+[making] kommt 1 mal vor!
+[Computer] kommt 1 mal vor!
+[is] kommt 5 mal vor!
+[a] kommt 2 mal vor!
+[user] kommt 1 mal vor!
+[Star] kommt 2 mal vor!
+[Cent] kommt 1 mal vor!
+[Tennis] kommt 1 mal vor!
+[New] kommt 3 mal vor!
+[Street] kommt 1 mal vor!
+[fit] kommt 1 mal vor!
+[disco] kommt 1 mal vor!
+[hip] kommt 1 mal vor!
+[all] kommt 4 mal vor!
+[super] kommt 10 mal vor!
+[stop] kommt 1 mal vor!
+[Job] kommt 5 mal vor!
+[Show] kommt 5 mal vor!
+[live] kommt 1 mal vor!
+[ham] kommt 2 mal vor!
+[attention] kommt 1 mal vor!
+[Blues] kommt 1 mal vor!
+[sorry] kommt 1 mal vor!
+[van] kommt 1 mal vor!
+[rockt] kommt 2 mal vor!
+[Couch] kommt 1 mal vor!
+[extra] kommt 1 mal vor!
+[checken] kommt 3 mal vor!
+[lag] kommt 1 mal vor!
+[blind] kommt 5 mal vor!
+[Beat] kommt 7 mal vor!
+[Baby] kommt 4 mal vor!
+[Rap] kommt 2 mal vor!
+[Reggae] kommt 1 mal vor!
+[Party] kommt 7 mal vor!
+[up] kommt 2 mal vor!
+[Keks] kommt 1 mal vor!
+[Frisbee] kommt 1 mal vor!
+[Whiskey] kommt 1 mal vor!
+[kicken] kommt 1 mal vor!
+[wars] kommt 2 mal vor!
+[Gang] kommt 1 mal vor!
+[easy] kommt 1 mal vor!
+[Mob] kommt 2 mal vor!
+[Hamburger] kommt 1 mal vor!
+[City] kommt 3 mal vor!
+[Nobody] kommt 3 mal vor!
+[move] kommt 3 mal vor!
+[nobody] kommt 3 mal vor!
+[wack] kommt 1 mal vor!
+[game] kommt 1 mal vor!
+[you] kommt 2 mal vor!
+[play] kommt 1 mal vor!
+[make] kommt 2 mal vor!
+[me] kommt 2 mal vor!
+[this] kommt 1 mal vor!
+[way] kommt 1 mal vor!
+[you do] kommt 1 mal vor!
+[dream] kommt 1 mal vor!
+[of] kommt 1 mal vor!
+[not] kommt 1 mal vor!
+[feeling] kommt 1 mal vor!
+[well] kommt 1 mal vor!
+[to] kommt 3 mal vor!
+[Breakdance] kommt 1 mal vor!
+[sun] kommt 5 mal vor!
+[Babe] kommt 2 mal vor!
+[Video] kommt 1 mal vor!
+[Style] kommt 1 mal vor!
+[Man] kommt 3 mal vor!
+[Tour] kommt 2 mal vor!
+[Kidnapper] kommt 1 mal vor!
+[Event] kommt 1 mal vor!
+[pie] kommt 1 mal vor!
+[MC] kommt 1 mal vor!
+[Underground] kommt 1 mal vor!
+[Smalltalk] kommt 1 mal vor!
+[Sound] kommt 2 mal vor!
+[DJ] kommt 1 mal vor!
+[Okay] kommt 2 mal vor!
+[cool] kommt 1 mal vor!
+[I] kommt 2 mal vor!
+[Trick] kommt 1 mal vor!
+[Flashback] kommt 1 mal vor!
+[Bar] kommt 1 mal vor!
+[high] kommt 1 mal vor!
+[Fan] kommt 1 mal vor!
+[Song] kommt 1 mal vor!
+[Remix] kommt 1 mal vor!
+[Interviewer] kommt 3 mal vor!
+[Shit] kommt 6 mal vor!
+[sexy] kommt 3 mal vor!
+[Shotgun] kommt 1 mal vor!
+[Scanner] kommt 1 mal vor!
+[per] kommt 2 mal vor!
+[Family] kommt 1 mal vor!
+[tag] kommt 1 mal vor!
+[kick] kommt 1 mal vor!
+[Chips] kommt 1 mal vor!
+[Hack] kommt 1 mal vor!
+[Sex] kommt 1 mal vor!
+[Twitter] kommt 1 mal vor!
+[World] kommt 3 mal vor!
+[famous] kommt 3 mal vor!
+[name] kommt 3 mal vor!
+[dirty] kommt 1 mal vor!
+[Hip Hop] kommt 1 mal vor!
+[TV] kommt 1 mal vor!
+[Internet] kommt 3 mal vor!
+[out] kommt 1 mal vor!
+[Mail] kommt 1 mal vor!
+[Sport] kommt 1 mal vor!
+[Rap-Musik] kommt 1 mal vor!
+[Girl] kommt 5 mal vor!
+[warm] kommt 1 mal vor!
+[Action] kommt 1 mal vor!
+[Fuck] kommt 1 mal vor!
+[Rapper] kommt 3 mal vor!
+[starten] kommt 1 mal vor!
+[Foul] kommt 1 mal vor!
+[Hip-Hop] kommt 1 mal vor!
+[kontrollieren] kommt 1 mal vor!
+[dopen] kommt 2 mal vor!
+[Clan] kommt 1 mal vor!
+[such] kommt 2 mal vor!
+[modern] kommt 1 mal vor!
+[stressig] kommt 1 mal vor!
+[skills] kommt 1 mal vor!
+[Tanke] kommt 1 mal vor!
+[Log] kommt 1 mal vor!
+[back] kommt 1 mal vor!
+[push] kommt 1 mal vor!
+[Button] kommt 1 mal vor!
+[Date] kommt 1 mal vor!
+[Track] kommt 1 mal vor!
+
+Der Autor [Kontra K] nutzt in allen vorhandenen Texten 7 verschiedene Anglizismen und im Gesammten nutzt er 7 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 733 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.95% an Anglizismen und ein Anteil von 0.95% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.95%.
+Diese Anglizismen sind:
+[cool] kommt 1 mal vor!
+[abgefuckt] kommt 1 mal vor!
+[Start] kommt 1 mal vor!
+[rappen] kommt 1 mal vor!
+[Rap] kommt 1 mal vor!
+[testen] kommt 1 mal vor!
+[boxen] kommt 1 mal vor!
+
+Der Autor [Sido] nutzt in allen vorhandenen Texten 8 verschiedene Anglizismen und im Gesammten nutzt er 12 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 364 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 3.30% an Anglizismen und ein Anteil von 2.20% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 2.75%.
+Diese Anglizismen sind:
+[kiffen] kommt 2 mal vor!
+[pack] kommt 3 mal vor!
+[Papers] kommt 1 mal vor!
+[high] kommt 2 mal vor!
+[Weed] kommt 1 mal vor!
+[stoned] kommt 1 mal vor!
+[Couch] kommt 1 mal vor!
+[Sex] kommt 1 mal vor!
+
+Der Autor [Plusmacher] nutzt in allen vorhandenen Texten 22 verschiedene Anglizismen und im Gesammten nutzt er 30 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 894 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 3.36% an Anglizismen und ein Anteil von 2.46% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 2.91%.
+Diese Anglizismen sind:
+[VIP-Bereich] kommt 4 mal vor!
+[high] kommt 3 mal vor!
+[kick] kommt 2 mal vor!
+[Rap] kommt 3 mal vor!
+[Punk] kommt 1 mal vor!
+[Gang] kommt 1 mal vor!
+[box] kommt 1 mal vor!
+[per] kommt 1 mal vor!
+[Smartphone] kommt 1 mal vor!
+[Weed] kommt 1 mal vor!
+[I] kommt 1 mal vor!
+[and] kommt 1 mal vor!
+[tape] kommt 1 mal vor!
+[Handy] kommt 1 mal vor!
+[first] kommt 1 mal vor!
+[Bitch] kommt 1 mal vor!
+[Man] kommt 1 mal vor!
+[Line] kommt 1 mal vor!
+[testen] kommt 1 mal vor!
+[cool] kommt 1 mal vor!
+[Connections] kommt 1 mal vor!
+[Sound] kommt 1 mal vor!
+
+Der Autor [Olli Banjo] nutzt in allen vorhandenen Texten 5 verschiedene Anglizismen und im Gesammten nutzt er 28 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 348 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 8.05% an Anglizismen und ein Anteil von 1.44% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 4.74%.
+Diese Anglizismen sind:
+[Sir] kommt 24 mal vor!
+[Brand] kommt 1 mal vor!
+[Gangster] kommt 1 mal vor!
+[Handy] kommt 1 mal vor!
+[Skills] kommt 1 mal vor!
+
+Der Autor [Hanybal] nutzt in allen vorhandenen Texten 6 verschiedene Anglizismen und im Gesammten nutzt er 22 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 348 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 6.32% an Anglizismen und ein Anteil von 1.72% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 4.02%.
+Diese Anglizismen sind:
+[East] kommt 1 mal vor!
+[Okay] kommt 1 mal vor!
+[E-Bike] kommt 2 mal vor!
+[straight] kommt 1 mal vor!
+[check] kommt 16 mal vor!
+[busy] kommt 1 mal vor!
+
+Der Autor [Prezident] nutzt in allen vorhandenen Texten 6 verschiedene Anglizismen und im Gesammten nutzt er 6 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 986 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.61% an Anglizismen und ein Anteil von 0.61% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.61%.
+Diese Anglizismen sind:
+[blind] kommt 1 mal vor!
+[Press] kommt 1 mal vor!
+[warm] kommt 1 mal vor!
+[Film] kommt 1 mal vor!
+[Pep] kommt 1 mal vor!
+[New] kommt 1 mal vor!
+
+Der Autor [Kool Savas] nutzt in allen vorhandenen Texten 16 verschiedene Anglizismen und im Gesammten nutzt er 24 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 535 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 4.49% an Anglizismen und ein Anteil von 2.99% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 3.74%.
+Diese Anglizismen sind:
+[go] kommt 3 mal vor!
+[Drums] kommt 1 mal vor!
+[stop] kommt 1 mal vor!
+[King] kommt 2 mal vor!
+[Mic] kommt 1 mal vor!
+[back] kommt 3 mal vor!
+[Beat] kommt 2 mal vor!
+[Trick] kommt 1 mal vor!
+[Track] kommt 2 mal vor!
+[Rapper] kommt 1 mal vor!
+[Hustler] kommt 1 mal vor!
+[Rap] kommt 2 mal vor!
+[Champ] kommt 1 mal vor!
+[make] kommt 1 mal vor!
+[money] kommt 1 mal vor!
+[no] kommt 1 mal vor!
+
+Der Autor [Die fantastischen Vier] nutzt in allen vorhandenen Texten 6 verschiedene Anglizismen und im Gesammten nutzt er 6 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 286 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 2.10% an Anglizismen und ein Anteil von 2.10% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 2.10%.
+Diese Anglizismen sind:
+[Stress] kommt 1 mal vor!
+[straight] kommt 1 mal vor!
+[Business] kommt 1 mal vor!
+[Internet] kommt 1 mal vor!
+[Man] kommt 1 mal vor!
+[rockt] kommt 1 mal vor!
+
+Der Autor [Favorite] nutzt in allen vorhandenen Texten 17 verschiedene Anglizismen und im Gesammten nutzt er 17 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 930 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 1.83% an Anglizismen und ein Anteil von 1.83% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 1.83%.
+Diese Anglizismen sind:
+[Hit] kommt 1 mal vor!
+[Beat] kommt 1 mal vor!
+[Kinofilm] kommt 1 mal vor!
+[Film] kommt 1 mal vor!
+[Gang] kommt 1 mal vor!
+[go] kommt 1 mal vor!
+[Game] kommt 1 mal vor!
+[Whiskey] kommt 1 mal vor!
+[cool] kommt 1 mal vor!
+[gay] kommt 1 mal vor!
+[CD] kommt 1 mal vor!
+[Happy End] kommt 1 mal vor!
+[per] kommt 1 mal vor!
+[Life] kommt 1 mal vor!
+[over] kommt 1 mal vor!
+[Peace] kommt 1 mal vor!
+[Track] kommt 1 mal vor!
+
+Der Autor [Alligatoah] nutzt in allen vorhandenen Texten 10 verschiedene Anglizismen und im Gesammten nutzt er 13 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 930 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 1.40% an Anglizismen und ein Anteil von 1.08% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 1.24%.
+Diese Anglizismen sind:
+[US] kommt 4 mal vor!
+[Santa Claus] kommt 1 mal vor!
+[Game] kommt 1 mal vor!
+[Bitch] kommt 1 mal vor!
+[Okay] kommt 1 mal vor!
+[Pop] kommt 1 mal vor!
+[E-Mail] kommt 1 mal vor!
+[Club] kommt 1 mal vor!
+[leg] kommt 1 mal vor!
+[Baby] kommt 1 mal vor!
+
+Der Autor [Xatar] nutzt in allen vorhandenen Texten 2 verschiedene Anglizismen und im Gesammten nutzt er 2 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 280 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 0.71% an Anglizismen und ein Anteil von 0.71% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 0.71%.
+Diese Anglizismen sind:
+[kicken] kommt 1 mal vor!
+[Highlight] kommt 1 mal vor!
+
+Der Autor [Tony D] nutzt in allen vorhandenen Texten 14 verschiedene Anglizismen und im Gesammten nutzt er 21 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 562 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 3.74% an Anglizismen und ein Anteil von 2.49% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 3.11%.
+Diese Anglizismen sind:
+[Rapper] kommt 4 mal vor!
+[Gang] kommt 3 mal vor!
+[Boss] kommt 3 mal vor!
+[rappen] kommt 1 mal vor!
+[Gangster] kommt 1 mal vor!
+[Hustler] kommt 1 mal vor!
+[Charts] kommt 1 mal vor!
+[DJ] kommt 1 mal vor!
+[Business] kommt 1 mal vor!
+[blind] kommt 1 mal vor!
+[Loser] kommt 1 mal vor!
+[Joint] kommt 1 mal vor!
+[hardcore] kommt 1 mal vor!
+[cool] kommt 1 mal vor!
+
+Der Autor [Baba Saad] nutzt in allen vorhandenen Texten 22 verschiedene Anglizismen und im Gesammten nutzt er 27 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 1101 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 2.45% an Anglizismen und ein Anteil von 2.00% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 2.23%.
+Diese Anglizismen sind:
+[Song] kommt 1 mal vor!
+[bunkern] kommt 1 mal vor!
+[Rapper] kommt 3 mal vor!
+[Metal] kommt 1 mal vor!
+[Battle] kommt 1 mal vor!
+[box] kommt 1 mal vor!
+[Beat] kommt 1 mal vor!
+[Rap] kommt 2 mal vor!
+[Star] kommt 1 mal vor!
+[Stress] kommt 1 mal vor!
+[is] kommt 3 mal vor!
+[King] kommt 1 mal vor!
+[of] kommt 1 mal vor!
+[Label] kommt 1 mal vor!
+[Manager] kommt 1 mal vor!
+[Loser] kommt 1 mal vor!
+[Cruiser] kommt 1 mal vor!
+[boomer] kommt 1 mal vor!
+[block] kommt 1 mal vor!
+[Boss] kommt 1 mal vor!
+[Bitch] kommt 1 mal vor!
+[Tanke] kommt 1 mal vor!
+
+Der Autor [Fler] nutzt in allen vorhandenen Texten 27 verschiedene Anglizismen und im Gesammten nutzt er 55 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 1333 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 4.13% an Anglizismen und ein Anteil von 2.03% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 3.08%.
+Diese Anglizismen sind:
+[Track] kommt 4 mal vor!
+[Beef] kommt 1 mal vor!
+[all] kommt 2 mal vor!
+[flow] kommt 1 mal vor!
+[Peace] kommt 1 mal vor!
+[Rapper] kommt 5 mal vor!
+[Shit] kommt 2 mal vor!
+[Hip Hop] kommt 2 mal vor!
+[rappen] kommt 1 mal vor!
+[Team] kommt 1 mal vor!
+[NBA] kommt 1 mal vor!
+[Street] kommt 19 mal vor!
+[easy] kommt 1 mal vor!
+[Gangster] kommt 1 mal vor!
+[Joint] kommt 1 mal vor!
+[Film] kommt 1 mal vor!
+[Single] kommt 1 mal vor!
+[Jingle] kommt 1 mal vor!
+[cool] kommt 1 mal vor!
+[is] kommt 1 mal vor!
+[Hit] kommt 1 mal vor!
+[Bitch] kommt 1 mal vor!
+[Sixpack] kommt 1 mal vor!
+[King] kommt 1 mal vor!
+[Beat] kommt 1 mal vor!
+[box] kommt 1 mal vor!
+[T-Shirt] kommt 1 mal vor!
+
+Der Autor [King Orgasmus One] nutzt in allen vorhandenen Texten 20 verschiedene Anglizismen und im Gesammten nutzt er 34 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 374 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 9.09% an Anglizismen und ein Anteil von 5.35% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 7.22%.
+Diese Anglizismen sind:
+[King] kommt 1 mal vor!
+[out] kommt 2 mal vor!
+[like] kommt 2 mal vor!
+[to] kommt 2 mal vor!
+[know] kommt 4 mal vor!
+[Hostesse] kommt 1 mal vor!
+[Bitch] kommt 2 mal vor!
+[sexy] kommt 1 mal vor!
+[you] kommt 1 mal vor!
+[I] kommt 4 mal vor!
+[don’t] kommt 2 mal vor!
+[need] kommt 4 mal vor!
+[money] kommt 1 mal vor!
+[anything] kommt 1 mal vor!
+[love] kommt 1 mal vor!
+[me] kommt 1 mal vor!
+[standing] kommt 1 mal vor!
+[front] kommt 1 mal vor!
+[of] kommt 1 mal vor!
+[Sex] kommt 1 mal vor!
+
+Der Autor [Eko Fresh] nutzt in allen vorhandenen Texten 15 verschiedene Anglizismen und im Gesammten nutzt er 17 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 936 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 1.82% an Anglizismen und ein Anteil von 1.60% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 1.71%.
+Diese Anglizismen sind:
+[over the top] kommt 2 mal vor!
+[okay] kommt 1 mal vor!
+[fame] kommt 1 mal vor!
+[Business] kommt 2 mal vor!
+[Hip] kommt 1 mal vor!
+[Hype] kommt 1 mal vor!
+[easy] kommt 1 mal vor!
+[King] kommt 1 mal vor!
+[rappen] kommt 1 mal vor!
+[Shit] kommt 1 mal vor!
+[Internet] kommt 1 mal vor!
+[Quickie] kommt 1 mal vor!
+[Baby] kommt 1 mal vor!
+[Rap] kommt 1 mal vor!
+[Tour] kommt 1 mal vor!
+
+Der Autor [Zuna] nutzt in allen vorhandenen Texten 11 verschiedene Anglizismen und im Gesammten nutzt er 23 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 383 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 6.01% an Anglizismen und ein Anteil von 2.87% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 4.44%.
+Diese Anglizismen sind:
+[original] kommt 9 mal vor!
+[Film] kommt 1 mal vor!
+[bam] kommt 3 mal vor!
+[Tank] kommt 1 mal vor!
+[Gang] kommt 2 mal vor!
+[Baby] kommt 2 mal vor!
+[undercover] kommt 1 mal vor!
+[Jeans] kommt 1 mal vor!
+[Hype] kommt 1 mal vor!
+[Street] kommt 1 mal vor!
+[I] kommt 1 mal vor!
+
+Der Autor [Olexesh] nutzt in allen vorhandenen Texten 10 verschiedene Anglizismen und im Gesammten nutzt er 15 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 421 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 3.56% an Anglizismen und ein Anteil von 2.38% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 2.97%.
+Diese Anglizismen sind:
+[Burger] kommt 3 mal vor!
+[chillen] kommt 2 mal vor!
+[stoned] kommt 2 mal vor!
+[kiffen] kommt 1 mal vor!
+[boxen] kommt 1 mal vor!
+[rocken] kommt 1 mal vor!
+[Rap] kommt 2 mal vor!
+[Job] kommt 1 mal vor!
+[Rapper] kommt 1 mal vor!
+[Film] kommt 1 mal vor!
+
+Der Autor [RAF Camora] nutzt in allen vorhandenen Texten 18 verschiedene Anglizismen und im Gesammten nutzt er 21 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 704 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 2.98% an Anglizismen und ein Anteil von 2.56% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 2.77%.
+Diese Anglizismen sind:
+[Man] kommt 1 mal vor!
+[Gangster] kommt 2 mal vor!
+[Sample] kommt 1 mal vor!
+[Club] kommt 1 mal vor!
+[Beat] kommt 1 mal vor!
+[Stress] kommt 1 mal vor!
+[Team] kommt 3 mal vor!
+[Rapper] kommt 1 mal vor!
+[Clan] kommt 1 mal vor!
+[Game] kommt 1 mal vor!
+[test] kommt 1 mal vor!
+[TV] kommt 1 mal vor!
+[under] kommt 1 mal vor!
+[Disco] kommt 1 mal vor!
+[Party] kommt 1 mal vor!
+[dead] kommt 1 mal vor!
+[Santa Claus] kommt 1 mal vor!
+[Burger] kommt 1 mal vor!
+
+Der Autor [Kay One] nutzt in allen vorhandenen Texten 18 verschiedene Anglizismen und im Gesammten nutzt er 22 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 405 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 5.43% an Anglizismen und ein Anteil von 4.44% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 4.94%.
+Diese Anglizismen sind:
+[Standard] kommt 1 mal vor!
+[Business] kommt 1 mal vor!
+[than] kommt 1 mal vor!
+[the] kommt 1 mal vor!
+[Bitch] kommt 5 mal vor!
+[Pool] kommt 1 mal vor!
+[DVD] kommt 1 mal vor!
+[Baby] kommt 1 mal vor!
+[Body] kommt 1 mal vor!
+[Lobby] kommt 1 mal vor!
+[shoppen] kommt 1 mal vor!
+[poppen] kommt 1 mal vor!
+[Rapper] kommt 1 mal vor!
+[Sex] kommt 1 mal vor!
+[Cash] kommt 1 mal vor!
+[fresh] kommt 1 mal vor!
+[Dress] kommt 1 mal vor!
+[to] kommt 1 mal vor!
+
+Der Autor [Antilopen Gang] nutzt in allen vorhandenen Texten 6 verschiedene Anglizismen und im Gesammten nutzt er 10 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 517 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 1.93% an Anglizismen und ein Anteil von 1.16% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 1.55%.
+Diese Anglizismen sind:
+[old] kommt 1 mal vor!
+[school] kommt 1 mal vor!
+[Gang] kommt 3 mal vor!
+[Gangster] kommt 2 mal vor!
+[Pampers] kommt 2 mal vor!
+[mini] kommt 1 mal vor!
+
+Der Autor [K.I.Z.] nutzt in allen vorhandenen Texten 14 verschiedene Anglizismen und im Gesammten nutzt er 20 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 950 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 2.11% an Anglizismen und ein Anteil von 1.47% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 1.79%.
+Diese Anglizismen sind:
+[I] kommt 6 mal vor!
+[Banker] kommt 1 mal vor!
+[Computer] kommt 1 mal vor!
+[Lobby] kommt 1 mal vor!
+[Job] kommt 2 mal vor!
+[art] kommt 1 mal vor!
+[Man] kommt 1 mal vor!
+[Yacht] kommt 1 mal vor!
+[Ecstasy] kommt 1 mal vor!
+[Rap] kommt 1 mal vor!
+[Bitch] kommt 1 mal vor!
+[Community] kommt 1 mal vor!
+[Gangster] kommt 1 mal vor!
+[chillen] kommt 1 mal vor!
+
+Der Autor [Genetikk] nutzt in allen vorhandenen Texten 11 verschiedene Anglizismen und im Gesammten nutzt er 11 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 309 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 3.56% an Anglizismen und ein Anteil von 3.56% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 3.56%.
+Diese Anglizismen sind:
+[Dresscode] kommt 1 mal vor!
+[Feeling] kommt 1 mal vor!
+[King] kommt 1 mal vor!
+[Baby] kommt 1 mal vor!
+[New] kommt 1 mal vor!
+[Papers] kommt 1 mal vor!
+[Sex] kommt 1 mal vor!
+[Style] kommt 1 mal vor!
+[the] kommt 1 mal vor!
+[Line] kommt 1 mal vor!
+[Santa] kommt 1 mal vor!
+
+Der Autor [Shindy] nutzt in allen vorhandenen Texten 37 verschiedene Anglizismen und im Gesammten nutzt er 55 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 366 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 15.03% an Anglizismen und ein Anteil von 10.11% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 12.57%.
+Diese Anglizismen sind:
+[gun] kommt 1 mal vor!
+[Handy] kommt 1 mal vor!
+[fancy] kommt 1 mal vor!
+[on the] kommt 1 mal vor!
+[low] kommt 2 mal vor!
+[cruise] kommt 1 mal vor!
+[Pictures] kommt 1 mal vor!
+[next] kommt 3 mal vor!
+[I] kommt 6 mal vor!
+[get] kommt 3 mal vor!
+[it] kommt 1 mal vor!
+[not] kommt 2 mal vor!
+[stay] kommt 1 mal vor!
+[down] kommt 1 mal vor!
+[something] kommt 1 mal vor!
+[else] kommt 1 mal vor!
+[you do] kommt 1 mal vor!
+[do it] kommt 1 mal vor!
+[do] kommt 1 mal vor!
+[anything] kommt 1 mal vor!
+[a] kommt 1 mal vor!
+[want] kommt 2 mal vor!
+[going] kommt 1 mal vor!
+[to] kommt 2 mal vor!
+[have] kommt 1 mal vor!
+[Baby] kommt 3 mal vor!
+[King] kommt 1 mal vor!
+[of] kommt 1 mal vor!
+[Pop] kommt 1 mal vor!
+[is] kommt 1 mal vor!
+[why] kommt 3 mal vor!
+[this is] kommt 2 mal vor!
+[hot] kommt 1 mal vor!
+[fresh] kommt 1 mal vor!
+[easy] kommt 1 mal vor!
+[Playboy] kommt 1 mal vor!
+[Weed] kommt 1 mal vor!
+
+Der Autor [Casper] nutzt in allen vorhandenen Texten 15 verschiedene Anglizismen und im Gesammten nutzt er 19 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 292 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 6.51% an Anglizismen und ein Anteil von 5.14% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 5.82%.
+Diese Anglizismen sind:
+[Boss] kommt 1 mal vor!
+[Player] kommt 1 mal vor!
+[Bitch] kommt 3 mal vor!
+[is] kommt 2 mal vor!
+[Gang] kommt 1 mal vor!
+[King] kommt 1 mal vor!
+[Level] kommt 1 mal vor!
+[Pimp] kommt 1 mal vor!
+[Mum] kommt 1 mal vor!
+[Mac] kommt 2 mal vor!
+[Kid] kommt 1 mal vor!
+[Shirt] kommt 1 mal vor!
+[Gig] kommt 1 mal vor!
+[Sex] kommt 1 mal vor!
+[Stress] kommt 1 mal vor!
+
+Der Autor [Morlockk Dilemma] nutzt in allen vorhandenen Texten 3 verschiedene Anglizismen und im Gesammten nutzt er 4 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 169 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 2.37% an Anglizismen und ein Anteil von 1.78% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 2.07%.
+Diese Anglizismen sind:
+[fly] kommt 1 mal vor!
+[Rapper] kommt 1 mal vor!
+[Game] kommt 2 mal vor!
+
+Der Autor [Chakuza] nutzt in allen vorhandenen Texten 14 verschiedene Anglizismen und im Gesammten nutzt er 17 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 366 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 4.64% an Anglizismen und ein Anteil von 3.83% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 4.23%.
+Diese Anglizismen sind:
+[Shit] kommt 1 mal vor!
+[all] kommt 2 mal vor!
+[the] kommt 2 mal vor!
+[end] kommt 1 mal vor!
+[of the] kommt 1 mal vor!
+[day] kommt 1 mal vor!
+[sun] kommt 1 mal vor!
+[is] kommt 2 mal vor!
+[down] kommt 1 mal vor!
+[alone] kommt 1 mal vor!
+[this] kommt 1 mal vor!
+[moment] kommt 1 mal vor!
+[my] kommt 1 mal vor!
+[heart] kommt 1 mal vor!
+
+Der Autor [Veysel] nutzt in allen vorhandenen Texten 9 verschiedene Anglizismen und im Gesammten nutzt er 26 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 267 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 9.74% an Anglizismen und ein Anteil von 3.37% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 6.55%.
+Diese Anglizismen sind:
+[Star] kommt 2 mal vor!
+[up] kommt 14 mal vor!
+[baby] kommt 4 mal vor!
+[Gangster] kommt 1 mal vor!
+[Studio] kommt 1 mal vor!
+[over] kommt 1 mal vor!
+[parken] kommt 1 mal vor!
+[Designer-Möbel] kommt 1 mal vor!
+[Baby] kommt 1 mal vor!
+
+Der Autor [RIN] nutzt in allen vorhandenen Texten 7 verschiedene Anglizismen und im Gesammten nutzt er 7 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 341 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 2.05% an Anglizismen und ein Anteil von 2.05% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 2.05%.
+Diese Anglizismen sind:
+[you] kommt 1 mal vor!
+[think] kommt 1 mal vor!
+[people] kommt 1 mal vor!
+[care] kommt 1 mal vor!
+[for] kommt 1 mal vor!
+[just] kommt 1 mal vor!
+[rappen] kommt 1 mal vor!
+
+Der Autor [Massiv] nutzt in allen vorhandenen Texten 5 verschiedene Anglizismen und im Gesammten nutzt er 5 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 327 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 1.53% an Anglizismen und ein Anteil von 1.53% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 1.53%.
+Diese Anglizismen sind:
+[Man] kommt 1 mal vor!
+[Joint] kommt 1 mal vor!
+[Cent] kommt 1 mal vor!
+[blank] kommt 1 mal vor!
+[pack] kommt 1 mal vor!
+
+Der Autor [Prinz Pi] nutzt in allen vorhandenen Texten 5 verschiedene Anglizismen und im Gesammten nutzt er 9 Anglizismen!
+Insgesamt wurden in allen Texten von diesem Autor 471 Wörter gefunden.
+Somit ergibt sich ein prozentualer Anteil von 1.91% an Anglizismen und ein Anteil von 1.06% unterschiedlichen Anglizismen im Korpus für diesen Autor.
+Der Mittelwert der beiden prozentualen Werte ist dabei: 1.49%.
+Diese Anglizismen sind:
+[Tattoo] kommt 1 mal vor!
+[Remix] kommt 1 mal vor!
+[all] kommt 1 mal vor!
+[Trick] kommt 2 mal vor!
+[Man] kommt 4 mal vor!

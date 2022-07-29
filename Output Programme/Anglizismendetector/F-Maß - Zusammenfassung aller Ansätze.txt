@@ -1,0 +1,41 @@
+Mit Lemma - Anglizismenliste
+
+Es wurden insgesamt 940 Anglizismen automatisch entdeckt. Es sollten optimalerweise 1273 Anglizismen gefunden werden
+Dabei waren von den 940 automatisch entdeckten Anglizismen 637 True-Positives!
+Damit gelangen wir zu einer Listenpräzision von 67.77% und einer Listenabdeckung von 50.04%!
+Somit hat dieser Durchlauf ein F-Maß von 57.57% erzielt!
+
+Ohne Lemma - Anglizismenliste
+
+Es wurden insgesamt 843 Anglizismen automatisch entdeckt. Es sollten optimalerweise 1273 Anglizismen gefunden werden
+Dabei waren von den 843 automatisch entdeckten Anglizismen 553 True-Positives!
+Damit gelangen wir zu einer Listenpräzision von 65.60% und einer Listenabdeckung von 43.44%!
+Somit hat dieser Durchlauf ein F-Maß von 52.27% erzielt!
+
+Mit Lemma - Wörterbuch
+
+Es wurden insgesamt 6727 Anglizismen automatisch entdeckt. Es sollten optimalerweise 1273 Anglizismen gefunden werden
+Dabei waren von den 6727 automatisch entdeckten Anglizismen 415 True-Positives!
+Damit gelangen wir zu einer Listenpräzision von 6.17% und einer Listenabdeckung von 32.60%!
+Somit hat dieser Durchlauf ein F-Maß von 10.38% erzielt!
+
+Ohne Lemma - Wörterbuch
+
+Es wurden insgesamt 2549 Anglizismen automatisch entdeckt. Es sollten optimalerweise 1273 Anglizismen gefunden werden
+Dabei waren von den 2549 automatisch entdeckten Anglizismen 395 True-Positives!
+Damit gelangen wir zu einer Listenpräzision von 15.50% und einer Listenabdeckung von 31.03%!
+Somit hat dieser Durchlauf ein F-Maß von 20.67% erzielt!
+
+Mit Lemma - Beides
+
+Es wurden insgesamt 7235 Anglizismen automatisch entdeckt. Es sollten optimalerweise 1273 Anglizismen gefunden werden
+Dabei waren von den 7235 automatisch entdeckten Anglizismen 777 True-Positives!
+Damit gelangen wir zu einer Listenpräzision von 10.74% und einer Listenabdeckung von 61.04%!
+Somit hat dieser Durchlauf ein F-Maß von 18.27% erzielt!
+
+Ohne Lemma - Beides
+
+Es wurden insgesamt 2920 Anglizismen automatisch entdeckt. Es sollten optimalerweise 1273 Anglizismen gefunden werden
+Dabei waren von den 2920 automatisch entdeckten Anglizismen 643 True-Positives!
+Damit gelangen wir zu einer Listenpräzision von 22.02% und einer Listenabdeckung von 50.51%!
+Somit hat dieser Durchlauf ein F-Maß von 30.67% erzielt!
